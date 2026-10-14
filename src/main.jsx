@@ -26,7 +26,7 @@ createRoot(document.getElementById("root")).render(
       </nav>
     </header>
     <main>
-      <section class="h-[700px] bg-[url(./public/Main.svg)] ... bg-cover bg-center bg-no-repeat">
+      <section class="h-[700px] bg-[url(./Main.svg)] ... bg-cover bg-center bg-no-repeat">
         <div className="relative z-10 flex h-full items-center">
           <div className="ml-[330px] w-[520px] text-white">
             <p className="mb-4 text-xs font-bold tracking-[3px] text-orange-500">
