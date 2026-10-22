@@ -105,7 +105,7 @@ createRoot(document.getElementById("root")).render(
             <div className="mt-8 flex gap-14">
               <div className="flex items-start gap-3">
                 <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-orange-50 text-orange-500">
-                  <img src="../public/Leaf.jpg" alt="" />
+                  <img src="/Leaf.jpg" alt="" />
                 </div>
 
                 <div>
@@ -123,7 +123,7 @@ createRoot(document.getElementById("root")).render(
 
               <div className="flex items-start gap-3">
                 <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-orange-50 text-orange-500">
-                   <img src="../public/Leaf2.jpg" alt="Expert Chefs"/>
+                   <img src="/Leaf2.jpg" alt="Expert Chefs"/>
                 </div>
 
                 <div>
