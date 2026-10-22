@@ -58,15 +58,13 @@ createRoot(document.getElementById("root")).render(
 
             <div className="mt-8 flex items-center gap-4">
               <div className="flex -space-x-3">
-                <div className="h-8 w-8 rounded-full border-2 border-white bg-gray-300"></div>
-
-                <div className="h-8 w-8 rounded-full border-2 border-white bg-gray-400"></div>
-
-                <div className="h-8 w-8 rounded-full border-2 border-white bg-gray-500"></div>
+                <img src="/1.png" alt="Profile 1" className="h-8 w-8" />
+                <img src="/2.png" alt="Profile 1" className="h-8 w-8" />
+                <img src="/3.png" alt="Profile 1" className="h-8 w-8" />
               </div>
 
               <p className="text-xs text-gray-200">
-                <span className="font-bold text-white">4.9 ★</span> from over
+                <span className="font-bold text-white">4.9 </span> from over
                 2,000+ happy diners
               </p>
             </div>
